@@ -17,17 +17,17 @@ namespace _20_2
         public string model;
 
         /// <summary>
-        /// Тактовая частота процессора
+        /// Тактовая частота процессора (в ГГц)
         /// </summary>
         public double clockFrequency;
 
         /// <summary>
-        /// Объём оперативной памяти
+        /// Объём оперативной памяти (в Гб)
         /// </summary>
         public int sizeOfRAM;
 
         /// <summary>
-        /// Объём жёсткого диска
+        /// Объём жёсткого диска (в Гб)
         /// </summary>
         public int hardDriveCapacity;
 
